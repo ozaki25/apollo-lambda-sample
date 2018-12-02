@@ -2,5 +2,9 @@
   "name": "apollo-lambda-sample",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-lambda": "^2.2.5",
+    "graphql": "^14.0.2"
+  }
 }
